@@ -29,7 +29,7 @@ which compile the MGCAMB and MGCOSMOMC packages. Wait until everything is finish
 * Concerning the [MGCAMB](https://github.com/sfu-cosmo/MGCAMB/tree/eff_newt_const) package the main modifications were performed in 
 the ```params_CMB_MG.ini``` files. For each pair of <a href="https://www.codecogs.com/eqnedit.php?latex=(g_a,n)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?(g_a,n)" title="(g_a,n)" /></a> a separate file was created (e.g. the file ```params_MG_ga05.ini.ini``` corresponds to g<sub>&alpha;</sub>=0.5 and n=2).
 
-* Concerning the [MGCOSMOMC](https://github.com/sfu-cosmo/MGCosmoMC/tree/eff_newt_const) package the priors of ga and n can be found in 
+* Concerning the [MGCOSMOMC](https://github.com/sfu-cosmo/MGCosmoMC/tree/eff_newt_const) package the priors of g<sub>&alpha;</sub> and n can be found in 
 ```batch3/params_CMB_MG.ini``` file, while the priors for the rest of the parameters can be found in 
 ```batch3/params_CMB_defaults.ini``` file.
 
