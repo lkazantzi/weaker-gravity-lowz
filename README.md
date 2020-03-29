@@ -43,5 +43,5 @@ If you use any of the above codes or the figures in a published work please cite
 Any further questions/comments are welcome
 
 ## Authors List
-Lavrentios Kazantzidis - <lkazantzi@cc.uoi.gr>
+Lavrentios Kazantzidis - <l.kazantzidis@uoi.gr>
 <br>Leandros Perivolaropoulos - <leandros@uoi.gr>
